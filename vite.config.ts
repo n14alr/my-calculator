@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 
 export default defineConfig({
-  base: /<https://github.com/n14alr/my-calculator>/, 
+  base: https://github.com/n14alr/my-calculator/, 
 });
